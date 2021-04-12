@@ -10,7 +10,7 @@
 * tensorflow == 2.4.1
 
 ## Usage
-python app.py --training "Training Data" --testing "Testing Data" --output "Output File"
+python trader.py --training "Training Data" --testing "Testing Data" --output "Output File"
 
 ## Main Idea
 * Extract features:
